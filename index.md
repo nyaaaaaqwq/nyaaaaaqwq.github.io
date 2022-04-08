@@ -27,6 +27,6 @@
 
 ### 链接/links
 
-Twitter：[@nyancat_arc](https://twitter.com/@nyancat_arc) 
+Twitter：[@nyancat_arc](https://twitter.com/nyancat_arc) 
 
 是涩涩喵，可能有**R-18**内容转载和点赞，望周知
