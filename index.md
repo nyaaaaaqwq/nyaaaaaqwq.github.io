@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## Nyaaaaa
+**No English and japanese here, please use translator to understand it
 
-You can use the [editor on GitHub](https://github.com/nyaaaaaqwq/nyaaaaaqwq.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+**ここには英語と日本語はありません。翻訳者を使って理解してください。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+为啥不写翻译，因为我懒！（（
 
-### Markdown
+### 个人介绍/self-introduction
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+这里是可爱的猫猫，**一个不太像蓝孩子的蓝孩子**，叫我nya/猫猫/虫虫/草履虫都行
 
-```markdown
-Syntax highlighted code block
+是音游玩家，练习时长两年半的 Arcaea 菜鸡，有时候玩 Project sekai 和 Phigros
 
-# Header 1
-## Header 2
-### Header 3
+其他时候会玩玩崩坏3，还有原神，uid 179057859，欢迎来我的世界骚扰（bushi）
 
-- Bulleted
-- List
+最喜欢的动物，当然是**猫猫**啦（这还用说？）狗狗也喜欢哦！
 
-1. Numbered
-2. List
+### 我的超能力/ability
 
-**Bold** and _Italic_ and `Code` text
+吃了玩，玩了吃，吃完了睡觉~
 
-[Link](url) and ![Image](src)
-```
+是技术控，喜欢玩机，欢迎交流喵~
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### 我想说的/what I want to say
 
-### Jekyll Themes
+希望能跟政见不同的人交流，**极左极右勿扰**！
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nyaaaaaqwq/nyaaaaaqwq.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 链接/links
 
-### Support or Contact
+Twitter：[@nyancat_arc](https://twitter.com/@nyancat_arc) 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+是涩涩喵，可能有**R-18**内容转载和点赞，望周知
