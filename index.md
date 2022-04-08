@@ -29,4 +29,6 @@
 
 Twitter：[@nyancat_arc](https://twitter.com/nyancat_arc) 
 
+Telegram：[@Nyaaaaakawaii](https://t.me/Nyaaaaakawaii)
+
 是涩涩喵，可能有**R-18**内容转载和点赞，望周知
